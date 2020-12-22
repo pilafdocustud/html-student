@@ -22,6 +22,24 @@ ul {
   font-size: 20px;
 }
 
+.Milk {
+  list-style-image: url()
+}
+
+.Bread {
+  list-style-image: url()
+}
+
 .Chocolate {
+  color: #939597;
+  list-style-image: url()
   text-decoration-line: line-through;
+  text-decoration-color: #939597;
+
+}
+
+.Beer {
+  color: #939597;
+  text-decoration-line: line-through;
+  text-decoration-color: #939597;
 }
