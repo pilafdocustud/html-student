@@ -12,34 +12,26 @@ body {
 
 h1 {
   font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 50px;
+  font-size: 40px;
   color: #f5df4d;
   border-bottom: solid;
 }
 
-ul {
+p {
   list-style-type: none;
   font-size: 20px;
 }
 
-.Milk {
-  list-style-image: url()
+li {
+  list-style-type: none;
+  font-size: 20px;
 }
 
-.Bread {
-  list-style-image: url()
-}
-
-.Chocolate {
-  color: #939597;
-  list-style-image: url()
+li.through {
+  list-style-type: none;
+  font-size: 20px;
+  color: #939593;
   text-decoration-line: line-through;
   text-decoration-color: #939597;
-
-}
-
-.Beer {
-  color: #939597;
-  text-decoration-line: line-through;
-  text-decoration-color: #939597;
+  text-decoration-style: solid;
 }
